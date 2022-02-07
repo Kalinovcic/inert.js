@@ -12,7 +12,7 @@ let rooter = router({
         h2("Header 2"),
         p("Test test test"),
         p("Another paragraph"),
-        input("button").attr("value", "Update").click(() => update(rooter)),
+        input("button").attr("value", "Update").addClick(() => update(rooter)),
         p("Here is a select with a random number of options:"),
         () => {
             let options = [];
