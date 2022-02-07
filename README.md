@@ -5,7 +5,7 @@ Like React ⚛, but Inert 🗿.
 ## Quick start
 
 ```console
-$ iexplore.exe example.html
+$ iexplore.exe index.html
 ```
 
 ## Performance
